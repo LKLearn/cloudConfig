@@ -10,7 +10,7 @@ spring:
           search-paths: respo
           username: LKLearn
           password: zhangsm525700H
-
+#这是cloud config 的 测试文件
 server:
   port: 8888
 
