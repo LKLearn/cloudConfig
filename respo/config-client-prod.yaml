@@ -1,7 +1,7 @@
 foo: abc8890
 
 server:
-  port: 8890
+  port: 8891
 
 eureka:
   client:
