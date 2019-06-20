@@ -1,0 +1,9 @@
+foo: abc8890
+
+server:
+  port: 8890
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
