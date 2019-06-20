@@ -1,4 +1,4 @@
-foo: abc8892
+foo: abc8893
 
 server:
   port: 8891
@@ -6,4 +6,4 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/sss
